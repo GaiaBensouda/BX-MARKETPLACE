@@ -6,7 +6,7 @@ export default function SideBar() {
       <nav>
         <Link href="/">Accueil</Link>
         <Link href="/listings">Produits</Link>
-        <Link href="/signup">S'inscrire</Link>
+        <Link href="/signup">S&apos;inscrire</Link>
       </nav>
     </div>
   );
